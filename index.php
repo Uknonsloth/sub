@@ -1,7 +1,14 @@
 <!DOCTYPE html>
-<html lang="en">
+ <html lang="en">
   <head>
-    <title>A JSON code template generator for Subway Surfers.</title>
+            var password; 
+            var pass1="idontknow"; 
+            password=prompt('Enter Password',' '); 
+            if (password==pass1) 
+            alert('Correct Password! Click OK to Enter!'); 
+            else { window.location="https://youareanidiot.gg/"; 
+            } 
+    <title>A Harsh code template generator for Subway Surfers.</title>
     <?php require "/home/runner/subwaysurf/require/connect.php" ?>
   </head>
   <body>
